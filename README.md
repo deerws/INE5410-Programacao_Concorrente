@@ -1,1 +1,3 @@
-# INE5410-Programa-o_Concorrente
+# INE5410-Programacao_Concorrente
+
+Cursado em 24.2
